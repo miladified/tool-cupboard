@@ -1,0 +1,1 @@
+Tool Cupboard is a centralized project repository for pentesting resources — a well‑organized place to store assessment scripts, test cases, wordlists, and configuration files. It serves as your secure workbench where tools, notes, and reusable assets are kept tidy and versioned, making it easy to find, run, and update the utilities you need during engagements.
