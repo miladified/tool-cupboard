@@ -1,3 +1,6 @@
 [submodule "external-tool-cupboard/BurpSuite-Config"]
 	path = external-tool-cupboard/BurpSuite-Config
 	url = https://github.com/rix4uni/BurpSuite-Config.git
+[submodule "external-tool-cupboard/PayloadsAllTheThings"]
+	path = external-tool-cupboard/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
