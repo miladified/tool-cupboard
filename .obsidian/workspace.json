@@ -11,10 +11,14 @@
             "id": "496b733f0f03bc2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "workbench/fuzzer-tools/dirhunt/Installation guides.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Installation guides"
             }
           }
         ]
@@ -162,20 +166,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "496b733f0f03bc2f",
+  "active": "4ed0c1d45542e724",
   "lastOpenFiles": [
+    "workbench/fuzzer-tools/dirhunt",
+    "workbench/fuzzer-tools",
+    "workbench/Untitled.md",
+    "workbench/fuzzer-tools/dirhunt/Installation guides.md",
+    "campfire/dunning-kruger/README.md",
+    "campfire/README.md",
+    "campfire/dunning-kruger/unnamed.jpg",
+    "small-stash/README.md",
+    "campfire/dunning-kruger/Untitled",
+    "campfire/dunning-kruger",
+    "Untitled",
+    "Untitled.md",
+    "campfire",
+    "workbench",
+    "workbench-level-1",
+    "New folder",
     "external-tool-cupboard/PayloadsAllTheThings/Zip Slip/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Zip Slip",
     "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Intruders/XXE_Fuzzing.txt",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Intruders/xml-attacks.txt",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/XXE PHP Wrapper.xml",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/XXE OOB Attack (Yunusov, 2013).xml",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/Deny Of Service - Billion Laugh Attack",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/Classic XXE.xml",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/Classic XXE B64 Encoded.xml",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Files/Classic XXE - etc passwd.xml",
     "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Intruders",
     "external-tool-cupboard/PayloadsAllTheThings/Virtual Hosts/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/SAML Injection/Images/XSLT1.jpg",
     "external-tool-cupboard/PayloadsAllTheThings/SAML Injection/Images/SAML-xml-flaw.png",
@@ -197,18 +209,10 @@
     "external-tool-cupboard/PayloadsAllTheThings/CORS Misconfiguration/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Business Logic Errors/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Brute Force Rate Limit/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_template_vuln/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/YOUTUBE.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/TWITTER.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/BOOKS.md",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_double_quote.png",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_red_lightning.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_use_xlink.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_svg.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/5 - XSS in Angular.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/4 - CSP Bypass.md"
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_use_xlink.svg"
   ]
 }
