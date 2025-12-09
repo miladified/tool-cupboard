@@ -4,3 +4,6 @@
 [submodule "external-tool-cupboard/PayloadsAllTheThings"]
 	path = external-tool-cupboard/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "external-tool-cupboard/Pentest-Tools"]
+	path = external-tool-cupboard/Pentest-Tools
+	url = https://github.com/TheMajical/Pentest-Tools.git
