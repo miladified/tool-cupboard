@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "28aa9b3fac39a90d",
+        "id": "f99ca72979cc3ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "496b733f0f03bc2f",
+            "id": "3ecda50d9f8be1c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workbench/fuzzer-tools/dirhunt/Installation guides.md",
+                "file": "external-tool-cupboard/PayloadsAllTheThings/Server Side Request Forgery/SSRF-Advanced-Exploitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation guides"
+              "title": "SSRF-Advanced-Exploitation"
+            }
+          },
+          {
+            "id": "4d56191bdb8fc70e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_red_lightning.svg"
+              },
+              "icon": "lucide-image",
+              "title": "SVG_XSS_red_lightning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 366.5
   },
   "right": {
     "id": "4c0634592d543f09",
@@ -166,27 +179,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ed0c1d45542e724",
+  "active": "4d56191bdb8fc70e",
   "lastOpenFiles": [
-    "workbench/fuzzer-tools/dirhunt",
-    "workbench/fuzzer-tools",
-    "workbench/Untitled.md",
+    "workbench/configs/burp/burp-match-and-replace.json",
+    "workbench/configs/burp/burp-match-and-replace.txt",
+    "workbench/configs/burp/New Text Document.txt",
+    "workbench/configs/burp/New folder",
+    "workbench/configs/burp",
+    "workbench/configs/New folder",
+    "workbench/configs",
+    "workbench/New folder",
+    "New folder",
+    "small-stash/bone-fragments/payload_to_burp_match_and_replace.py",
+    "small-stash/bone-fragments/payload_to_burp_match_and_replace.txt",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_use_xlink.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_red_lightning.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_svg.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS1.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS2.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS3.svg",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/1 - XSS Filter Bypass.md",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/3 - XSS Common WAF Bypass.md",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/2 - XSS Polyglot.md",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/4 - CSP Bypass.md",
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/5 - XSS in Angular.md",
+    "workbench/install-instructions/php/How to Install PHP.md",
+    "tmp.md",
+    "external-tool-cupboard/PayloadsAllTheThings/Server Side Request Forgery/SSRF-Advanced-Exploitation.md",
+    "external-tool-cupboard/PayloadsAllTheThings/Server Side Request Forgery/SSRF-Cloud-Instances.md",
+    "external-tool-cupboard/PayloadsAllTheThings/SQL Injection/MSSQL Injection.md",
+    "external-tool-cupboard/PayloadsAllTheThings/SQL Injection/MySQL Injection.md",
+    "workbench/methodology/Untitled.md",
     "workbench/fuzzer-tools/dirhunt/Installation guides.md",
+    "workbench/Untitled.md",
     "campfire/dunning-kruger/README.md",
     "campfire/README.md",
     "campfire/dunning-kruger/unnamed.jpg",
     "small-stash/README.md",
-    "campfire/dunning-kruger/Untitled",
-    "campfire/dunning-kruger",
-    "Untitled",
-    "Untitled.md",
-    "campfire",
-    "workbench",
-    "workbench-level-1",
-    "New folder",
     "external-tool-cupboard/PayloadsAllTheThings/Zip Slip/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Zip Slip",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/Intruders/XXE_Fuzzing.txt",
     "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Virtual Hosts/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/SAML Injection/Images/XSLT1.jpg",
@@ -195,24 +226,6 @@
     "external-tool-cupboard/PayloadsAllTheThings/Reverse Proxy Misconfigurations/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/OAuth Misconfiguration/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/NoSQL Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Insecure Management Interface/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Insecure Direct Object References/Images/idor.png",
-    "external-tool-cupboard/PayloadsAllTheThings/Insecure Direct Object References/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Dependency Confusion/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Denial of Service/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/DOM Clobbering/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/DNS Rebinding/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Cross-Site Request Forgery/Images/CSRF-CheatSheet.png",
-    "external-tool-cupboard/PayloadsAllTheThings/Cross-Site Request Forgery/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/CSV Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/CRLF Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/CORS Misconfiguration/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Business Logic Errors/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Brute Force Rate Limit/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_double_quote.png",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_red_lightning.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_use_xlink.svg"
+    "external-tool-cupboard/PayloadsAllTheThings/Insecure Management Interface/README.md"
   ]
 }
