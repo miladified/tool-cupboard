@@ -164,6 +164,10 @@
   },
   "active": "4ed0c1d45542e724",
   "lastOpenFiles": [
+    "workbench/setup/BurpInstaller.ps1",
+    "workbench/setup/New Text Document.txt",
+    "workbench/setup",
+    "workbench/New folder",
     "external-tool-cupboard/PayloadsAllTheThings/Clickjacking/README.md",
     "workbench/fuzzer-tools/dirhunt/Installation guides.md",
     "workbench/methodologies/waf-bypasses/xss/README.md",
@@ -180,10 +184,7 @@
     "workbench/methodologies/ip-blocking/ip-blocking-bypass-via-http-client-ip-header.txt",
     "workbench/methodologies/waf-bypasses",
     "workbench/methodologies/ip-blocking",
-    "workbench/methodologies",
-    "word-lists/common-wordlist/very-common-http-method.txt",
     "word-lists/README.md",
-    "word-lists/common-wordlist",
     "methodologies/waf-bypasses/xss/README.md",
     "methodolgies/waf-bypasses/xss/README.md",
     "external-tool-cupboard/BurpSuite-Config/README.md",
@@ -209,7 +210,6 @@
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/5 - XSS in Angular.md",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/4 - CSP Bypass.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/3 - XSS Common WAF Bypass.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/2 - XSS Polyglot.md"
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/3 - XSS Common WAF Bypass.md"
   ]
 }
