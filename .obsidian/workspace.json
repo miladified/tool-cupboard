@@ -164,6 +164,12 @@
   },
   "active": "4ed0c1d45542e724",
   "lastOpenFiles": [
+    "external-tool-cupboard/PayloadsAllTheThings/XS-Leak/README.md",
+    "external-tool-cupboard/PayloadsAllTheThings/XS-Leak",
+    "external-tool-cupboard/PayloadsAllTheThings/Server Side Template Injection/Images/technique_Error-Based.png",
+    "external-tool-cupboard/PayloadsAllTheThings/Server Side Template Injection/Images/technique_Boolean-Based.png",
+    "external-tool-cupboard/PayloadsAllTheThings/CSS Injection/README.md",
+    "external-tool-cupboard/PayloadsAllTheThings/CSS Injection",
     "workbench/setup/BurpInstaller.ps1",
     "workbench/setup/New Text Document.txt",
     "workbench/setup",
@@ -181,9 +187,6 @@
     "workbench/word-lists",
     "workbench/methodologies/Untitled.md",
     "workbench/methodologies/waf-bypasses/xss",
-    "workbench/methodologies/ip-blocking/ip-blocking-bypass-via-http-client-ip-header.txt",
-    "workbench/methodologies/waf-bypasses",
-    "workbench/methodologies/ip-blocking",
     "word-lists/README.md",
     "methodologies/waf-bypasses/xss/README.md",
     "methodolgies/waf-bypasses/xss/README.md",
@@ -205,11 +208,8 @@
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_svg.svg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_img_xlink.svg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_green_triangle.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS2.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS3.svg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/5 - XSS in Angular.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/4 - CSP Bypass.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/3 - XSS Common WAF Bypass.md"
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/4 - CSP Bypass.md"
   ]
 }
