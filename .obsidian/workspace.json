@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d770c10beff13c18",
+        "id": "f504143f540682d8",
         "type": "tabs",
         "children": [
           {
-            "id": "45fd4053858a7311",
+            "id": "fc55004bae30b97a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,37 +166,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ed0c1d45542e724",
+  "active": "fc55004bae30b97a",
   "lastOpenFiles": [
+    "workbench/tools/Git.md",
+    "external-tool-cupboard/BurpSuite-Config/README.md",
+    "external-tool-cupboard/BurpSuite-Config/LICENSE",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Match-Replace/tls-pass-through.json",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Match-Replace/match-replace-burp.json",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Match-Replace",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/send_to_intruder.py",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/Copy-Raw-Request-to-File.py",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/Bup-Sub-Domain-Extractor.py",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Audit/XSS.json",
+    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Audit/SQLI.json",
     "README.md",
     "tmp.md",
-    "workbench/tools/Git.md",
     "Untitled.canvas",
-    "workbench/tools",
     "external-tool-cupboard/PayloadsAllTheThings/XS-Leak/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XS-Leak",
     "external-tool-cupboard/PayloadsAllTheThings/Server Side Template Injection/Images/technique_Error-Based.png",
     "external-tool-cupboard/PayloadsAllTheThings/Server Side Template Injection/Images/technique_Boolean-Based.png",
     "external-tool-cupboard/PayloadsAllTheThings/CSS Injection/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/CSS Injection",
-    "workbench/setup/BurpInstaller.ps1",
-    "workbench/setup/New Text Document.txt",
-    "workbench/setup",
-    "workbench/New folder",
     "external-tool-cupboard/PayloadsAllTheThings/Clickjacking/README.md",
     "workbench/fuzzer-tools/dirhunt/Installation guides.md",
     "workbench/methodologies/waf-bypasses/xss/README.md",
     "workbench/word-lists/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Brute Force Rate Limit/README.md",
     "workbench/methodology/Untitled.md",
-    "workbench/word-lists/common-wordlist/very-common-http-method.txt",
-    "workbench/word-lists/common-wordlist",
-    "workbench/word-lists",
     "workbench/methodologies/Untitled.md",
     "word-lists/README.md",
     "methodologies/waf-bypasses/xss/README.md",
     "methodolgies/waf-bypasses/xss/README.md",
-    "external-tool-cupboard/BurpSuite-Config/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Server Side Request Forgery/SSRF-Advanced-Exploitation.md",
     "external-tool-cupboard/Pentest-Tools/eol-security-scanner/README.md",
     "external-tool-cupboard/Pentest-Tools/String Similarity/README.md",
@@ -213,7 +213,6 @@
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_use_xlink.svg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_svg.svg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_nested_img_xlink.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_green_triangle.svg",
-    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/README.md"
+    "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/SVG_XSS_green_triangle.svg"
   ]
 }
