@@ -1,0 +1,1 @@
+https://github.com/jassics/security-study-plan/blob/main/application-security-study-plan.md

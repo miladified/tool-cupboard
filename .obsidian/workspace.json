@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workbench/tools/Git.md",
+                "file": "workbench/commands/Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Windows"
             }
           }
         ]
@@ -168,7 +168,18 @@
   },
   "active": "fc55004bae30b97a",
   "lastOpenFiles": [
-    "workbench/tools/Git.md",
+    "workbench/tools/dev-ops/kubernetes.md",
+    "workbench/commands/Windows.md",
+    "workbench/commands",
+    "workbench/research/app-sec/tools.md",
+    "workbench/tools/dev-ops",
+    "workbench/research/app-sec/resources.md",
+    "workbench/tools/markdown.md",
+    "workbench/tools/git.md",
+    "workbench/methodologies/Untitled.md",
+    "workbench/research/app-sec",
+    "workbench/research",
+    "workbench/methodologies/waf-bypasses/xss/README.md",
     "external-tool-cupboard/BurpSuite-Config/README.md",
     "external-tool-cupboard/BurpSuite-Config/LICENSE",
     "external-tool-cupboard/BurpSuite-Config/Burpsuite-Match-Replace/tls-pass-through.json",
@@ -176,10 +187,6 @@
     "external-tool-cupboard/BurpSuite-Config/Burpsuite-Match-Replace",
     "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/send_to_intruder.py",
     "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/Copy-Raw-Request-to-File.py",
-    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions/Bup-Sub-Domain-Extractor.py",
-    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Extensions",
-    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Audit/XSS.json",
-    "external-tool-cupboard/BurpSuite-Config/Burpsuite-Audit/SQLI.json",
     "README.md",
     "tmp.md",
     "Untitled.canvas",
@@ -189,11 +196,9 @@
     "external-tool-cupboard/PayloadsAllTheThings/CSS Injection/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Clickjacking/README.md",
     "workbench/fuzzer-tools/dirhunt/Installation guides.md",
-    "workbench/methodologies/waf-bypasses/xss/README.md",
     "workbench/word-lists/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/Brute Force Rate Limit/README.md",
     "workbench/methodology/Untitled.md",
-    "workbench/methodologies/Untitled.md",
     "word-lists/README.md",
     "methodologies/waf-bypasses/xss/README.md",
     "methodolgies/waf-bypasses/xss/README.md",
@@ -202,10 +207,6 @@
     "external-tool-cupboard/Pentest-Tools/String Similarity/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/_template_vuln/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/YOUTUBE.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/TWITTER.md",
-    "external-tool-cupboard/PayloadsAllTheThings/_LEARNING_AND_SOCIALS/BOOKS.md",
-    "external-tool-cupboard/PayloadsAllTheThings/Zip Slip/README.md",
-    "external-tool-cupboard/PayloadsAllTheThings/XXE Injection/README.md",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
     "external-tool-cupboard/PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_double_quote.png",
