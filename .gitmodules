@@ -7,3 +7,6 @@
 [submodule "external-tool-cupboard/Pentest-Tools"]
 	path = external-tool-cupboard/Pentest-Tools
 	url = https://github.com/TheMajical/Pentest-Tools.git
+[submodule "external-tool-cupboard/www-project-web-security-testing-guide"]
+	path = external-tool-cupboard/www-project-web-security-testing-guide
+	url = https://github.com/OWASP/www-project-web-security-testing-guide.git
