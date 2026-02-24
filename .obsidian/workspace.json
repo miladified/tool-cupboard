@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56fbf85f11c281e8",
+        "id": "c2a4cbf0cb5fc0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa61a14b0faf57eb",
+            "id": "2ee4fe28b8e581c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa61a14b0faf57eb",
+  "active": "4ed0c1d45542e724",
   "lastOpenFiles": [
+    "workbench/setup/DNS-Jumpr-config/DnsJumper.ini",
+    "workbench/setup/DNS-Jumpr-config",
+    "workbench/setup/New folder",
+    "workbench/setup/DnsJumper.ini",
+    "workbench/research/app-sec/DAST/assets.md",
+    "workbench/research/app-sec/SAST/tools.md",
+    "workbench/research/app-sec/SAST/assets.md",
+    "workbench/research/app-sec/DAST",
     "external-tool-cupboard/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/index.md",
     "external-tool-cupboard/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/01-Test_Network_Infrastructure_Configuration.md",
     "external-tool-cupboard/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/09-Testing_for_XPath_Injection.md",
@@ -194,14 +202,6 @@
     "external-tool-cupboard/www-community/pages/initiatives/gsod/index.md",
     "external-tool-cupboard/www-community/pages/initiatives/gsod/ideas.md",
     "external-tool-cupboard/www-community/pages/initiatives/gsod/historical",
-    "external-tool-cupboard/www-community/pages/initiatives/gsoc/info.md",
-    "external-tool-cupboard/www-community/pages/initiatives/gsoc/index.md",
-    "external-tool-cupboard/www-community/pages/initiatives/gsoc/gsoc_sat.md",
-    "external-tool-cupboard/www-community/pages/initiatives/gsoc/gsoc_ai_usage_guidelines.md",
-    "external-tool-cupboard/www-community/pages/social/chapters_all_day",
-    "external-tool-cupboard/www-community/pages/initiatives/gsod",
-    "external-tool-cupboard/www-community/pages/initiatives/gsoc",
-    "external-tool-cupboard/www-community/pages/initiatives/code_sprint",
     "external-tool-cupboard/www-community/assets/images/initiatives/gsod/owaspjuiceshop_cover.jpg",
     "external-tool-cupboard/www-community/assets/images/initiatives/code_sprint/WinterCode.png",
     "external-tool-cupboard/www-community/assets/images/initiatives/code_sprint/424px-WinterCode.png",
